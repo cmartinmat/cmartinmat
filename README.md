@@ -2,7 +2,7 @@
 - 👀 I’m interested in learn web development and build my career as a product manager
 - 🌱 I’m currently learning: Java, html, css, Js 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach cmartinmat@gamil.com
+- 📫 How to reach cmartinmat@gmail.com
 
 <!---
 cmartinmat/cmartinmat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
